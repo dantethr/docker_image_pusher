@@ -1,2 +1,2 @@
 nginx
-node:22-alpine
+node:22.14.0
